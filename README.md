@@ -1,6 +1,6 @@
 # AI Job Analysis
 
-[![CI](https://github.com/amiagm/job-fit-analysis-api/actions/workflows/ci.yml/badge.svg)](https://github.com/amiagm/job-fit-analysis-api/actions/workflows/ci.yml)
+[![CI](https://github.com/sz-tamas/job-fit-analysis-api/actions/workflows/ci.yml/badge.svg)](https://github.com/sz-tamas/job-fit-analysis-api/actions/workflows/ci.yml)
 ![Node.js 22](https://img.shields.io/badge/Node.js-22-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 
